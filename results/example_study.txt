@@ -1,0 +1,2 @@
+original: GEE slope 0.077/s (one-sided p = 0.000); mixed-model slope 0.099 (posterior sd 0.022)
+redesign: GEE slope 0.037/s (one-sided p = 0.004); mixed-model slope 0.048 (posterior sd 0.008)

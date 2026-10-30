@@ -1,0 +1,9 @@
+design,param,spearman,median_abs_error,share_at_bound
+original,alpha,0.51,0.146,0.095
+original,beta,0.459,3.262,0.265
+original,bias,0.439,0.291,0.02
+original,kappa,0.42,0.503,0.19
+redesign,alpha,0.744,0.084,0.05
+redesign,beta,0.597,1.632,0.105
+redesign,bias,0.77,0.129,0.0
+redesign,kappa,0.475,0.329,0.095
